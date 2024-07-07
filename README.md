@@ -37,3 +37,7 @@ The client can send the following commands to the server:
 - `POST_FILE`: Send a file (max 256 bytes).
 - `GET`: Retrieve all stored messages.
 - `EXIT`: Close the connection.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
